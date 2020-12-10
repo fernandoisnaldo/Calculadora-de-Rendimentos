@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#calcula rendimentos com juros compostos
+#Calcula rendimentos com juros compostos
 use strict;
 use warnings;
 print "Defina o valor de investimento inicial: R\$ ";
